@@ -2,7 +2,7 @@
 ##########################################################################
 # NAME: swapper                                                          #
 # LOCATION: /home/raven/jfkrone                                          #
-# DATE: 30 Jan 98                                                        #
+# DATE: 30 Jan 97                                                        #
 # TYPE: PERL script                                                      #
 # REFERENCES: Perl manual pages                                          #
 # PROGRAMMER: jfkrone@fsk.f.nsa, SrA Jason F. Kronemeyer, 952-4263       #
