@@ -4,7 +4,7 @@ NAME: swapper
 
 LOCATION: /home/raven/jfkrone
 
-DATE: 30 Jan 98
+DATE: 30 Jan 97
 
 TYPE: PERL script
 
