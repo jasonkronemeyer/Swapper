@@ -16,7 +16,7 @@
 #                                                                        #
 # CHANGE LIST:                                                           #
 # DATE    /   PGMR    / CHANGES MADE                                     #
-# 30 Jan 98  jfkrone   Original program                                  #
+# 30 Jan 97  jfkrone   Original program                                  #
 # 26 Jul 20  jfkrone   Version Conrtol added                             # 
 ##########################################################################
 
@@ -84,4 +84,5 @@ sub Replacer {
                 print STDERR "Cannot open $FILENAME: $!\n";
         }
 }
+
 exit;
